@@ -1,0 +1,21 @@
+.wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 4rem;
+  margin-bottom: 1.5rem;
+}
+
+.display {
+  display: flex;
+  gap: 8px;
+  font-weight: bold;
+}
+
+.created {
+  color: var(--blue);
+}
+
+.concluded {
+  color: var(--purple);
+}

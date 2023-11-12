@@ -1,0 +1,13 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: var(--gray-400);
+  color: var(--gray-200);
+  padding: .125rem .75rem;
+  border-radius: 1rem;
+
+
+  font-size: 0.75rem;
+  font-weight: bold;
+}
