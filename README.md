@@ -26,9 +26,3 @@ npm create vite@latest
 ```bash
 npm i @phosphor-icons/react
 ```
-
-[Formatação da datas - date-fns](https://date-fns.org/)
-
-```bash
-npm i date-fns
-```
